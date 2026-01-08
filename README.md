@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&pause=1000&color=F7A8C7&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Rakelly+%F0%9F%8C%B8;Bem-vinda+ao+meu+perfil+fofo+%F0%9F%92%95;Aprendendo+programa%C3%A7%C3%A3o+com+calma+%F0%9F%8C%B1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Rakelly+%F0%9F%8C%B8;Bem-vinda+ao+meu+perfil+fofo+%F0%9F%92%95;Aprendendo+programa%C3%A7%C3%A3o+com+calma+%F0%9F%8C%B1" />
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200">
 </p>
 
 <p align="center">
-  💗 Obrigada por visitar meu perfil 💗
+  🦈💗 Tubarão sorridente passando para desejar boas-vindas 💗🦈
 </p>
