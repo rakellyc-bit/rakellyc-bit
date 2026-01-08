@@ -1,7 +1,15 @@
-## Hi there 👋
+## 🌸 Bem-vinda ao meu perfil 🌸
 
-<!--
-**rakellyc-bit/rakellyc-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌱 Estudante de programação <br>
+  💻 Aprendendo desenvolvimento web <br>
+  ✨ Um passo de cada vez
+</p>
+------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF57B&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Rakelly!;Aprendendo+programa%C3%A7%C3%A3o;Bem-vinda+ao+meu+perfil+%F0%9F%92%9A" />
+</p>
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Here are some ideas to get you started:
 
