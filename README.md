@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200">
+  <img src="https://th.bing.com/th/id/OIP.cXNdMtvoVN6SlJZOSv0U9wAAAA?w=200&h=168&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" width="200">
 </p>
 
 <p align="center">
