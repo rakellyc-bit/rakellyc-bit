@@ -1,9 +1,8 @@
 ## 🌸 Bem-vinda ao meu perfil 🌸
 
-<p align="center">
+<p align="left">
   🌱 Estudante de programação <br>
-  💻 Aprendendo desenvolvimento web <br>
-  ✨ Um passo de cada vez
+  💻 Aprendendo desenvolvimento web <br> ✨
 </p>
 ------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
