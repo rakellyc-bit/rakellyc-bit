@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Rakelly+%F0%9F%8C%B8;Bem-vinda+ao+meu+perfil+fofo+%F0%9F%92%95;Aprendendo+programa%C3%A7%C3%A3o+com+calma+%F0%9F%8C%B1" />
 </p>
 
-<p align="center">
+<p align="center"> 
   🌸 Estudante de programação <br>
   💻 Aprendendo desenvolvimento web <br>
   🌱 Um passo de cada vez
